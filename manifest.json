@@ -1,0 +1,9 @@
+{
+  "source": "https://cricsheet.org/downloads/ipl_json.zip",
+  "sha256": "5757e04287179767ff8495f02902bd13812b9572ec8fa2ac1347ec2e9c6d4709",
+  "matches": 1243,
+  "date_range": [
+    "2008-04-18",
+    "2026-05-31"
+  ]
+}
